@@ -36,6 +36,7 @@
 - `pip3 install wikipedia
 - `pip3 install tweepy
 - `pip3 install html5lib
+- `pip3 install important
 - `pip3 install youtube_dl
 - `git clone https://github.com/n8xi/PROTECT-edit_beloved
 - `cd PROTECT
