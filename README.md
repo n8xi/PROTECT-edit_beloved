@@ -39,7 +39,7 @@
 - `pip3 install important
 - `pip3 install youtube_dl
 - `git clone https://github.com/n8xi/PROTECT-edit_beloved
-- `cd PROTECT
+- `cd PROTECT-edit_beloved
 - `python3 prosk.py
 
 ## Fungsi login sb protect
