@@ -1,4 +1,5 @@
 # PROTECT BY SELFBOT Dhenza
+# EDIT BY BELOVED
 
 # ![logo](Line/LINE.png) LINE TBP
 
@@ -16,23 +17,27 @@
 
 ## Installan
 
-- `pkg update
-- `pkg install git
-- `pkg install python3-pip
+- `apt update
+- `apt upgrade
+- `reboot
+- `apt install nano git
+- `apt-get install python3-pip
+- `pip3 install --upgrade setuptools
 - `pip3 install rsa
 - `pip3 install thrift==0.11.0
 - `pip3 install requests
+- `pip3 install pytz
 - `pip3 install bs4
 - `pip3 install gtts
-- `pip3 install beautifulsoup
 - `pip3 install googletrans
-- `pip3 install pafy
 - `pip3 install humanfriendly
 - `pip3 install goslate
+- `pip3 install pafy
 - `pip3 install wikipedia
-- `pip3 install youtube_dl
 - `pip3 install tweepy
-- `git clone https://github.com/dhenza1415/PROTECT
+- `pip3 install html5lib
+- `pip3 install youtube_dl
+- `git clone https://github.com/n8xi/PROTECT-edit_beloved
 - `cd PROTECT
 - `python3 prosk.py
 
